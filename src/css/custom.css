@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'Jonjous';
+    src: local('Jonjous'), url('../fonts/Jonjous.ttf') format('truetype');
+}
+
+.name{
+    font-family: Jonjous, serif !important;
+    font-weight: 100 !important;
+    font-size: 65px !important;
+    text-shadow: 1px 1px #525252;
+}
+
+.full {
+    min-height: 104vh;
+}
+
+.Welcome {
+    background-image: url('https://picsum.photos/id/1014/3000');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    z-index: 0;
+}
+
+.main-title {
+    font-family: Jonjous, serif !important;
+    font-size: xx-large !important;
+    line-height: 2.2;
+    color: #877217 !important;
+}
+
+.padded-div {
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+.ArtisticPortfolio{
+    background-color: #f3f3f3;
+}
+
+.Contact{
+    background-color: #f3f3f3;
+}
+
+.centered {
+    text-align: center;
+}
+
+.VideoGallery{
+    padding: 20px 0;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #767676 !important;
+}
+
+.Composer .card img {
+    aspect-ratio: 13 / 16;
+}
+
+.composer-name {
+    font-family: Jonjous, serif !important;
+    font-size: 50px !important;
+    line-height: 2.2;
+    text-shadow: 1px 1px #525252;
+}
+
+.MainMenu {
+    background-color: #123A52 !important;
+}
+
+p{
+    font-size: medium;
+}
+
+.pushable:not(body) {
+    transform: none !important;
+}
+  
+.Sidebar-Menu{
+    position: fixed !important;
+}
+
+.EngineeringPortfolio img {
+    aspect-ratio: 4/4;
+}
+
+.divider{
+    color: #877217 !important;
+}
+
+.inner{
+    padding: 20px 0;
+}
+
+.works {
+    padding: 30px;
+}
+
+.ui.progress .bar {
+    background-color: #5C4A00 !important;
+}
