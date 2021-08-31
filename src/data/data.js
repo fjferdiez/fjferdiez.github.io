@@ -20,13 +20,14 @@ const biography = {
         'Francisco studied with recognized teachers from his native country such as: Amelia Salazar and Mariana Ortiz. Finally concluding his vocal training with the Spanish-Venezuelan tenor Alain Damas.',
         'He received masterclass of important figures of his native country and abroad, such as: Nicola Pisaniello (Italy), Isabel Palacios, Luigi Sciamanna, Francisco Salazar, Giovanni Reali and Carlos Sánchez Torrealba. Being always praised for his expressiveness and musicianship as well for his careful review of the score.',
         'He made his debut on the year 2011, and from then on, highlights of his musical career have been: Mass in G Major by Schubert, Magnificat in B flat by Francesco Durante, Choral Fantasy by Beethoven, Caracas’ Baroque Opera Festival of 2014 with Monteverdi’s Orfeo, Kaffeekantate by J.S, Bach, MarkusPassion by Reinhard Keiser & Requiem by Mozart. On distinguished theaters and auditoriums of Venezuela.',
-        'During his stay in China he has recorded several tracks for performances on the UESTC and participated on the program “The Foreigner’s Sing Sichuan Opera” (2017), where he made a solo at the 锦江剧场. Currently he is a member of the Chengdu Philharmonic Choir (成都爱乐合唱团).'
+        'During his stay in China he has recorded several tracks for performances on the UESTC and participated on the program “The Foreigner\'s Sing Sichuan Opera” (2017), where he made a solo at the 锦江剧场. Currently he is a member of the Chengdu Philharmonic Choir (成都爱乐合唱团).'
     ],
     coderTitle: 'As Software Engineer...',
     coderParagraphs: [
         'Francisco graduated as first of his class for his Bachelor Degree in Computer Science from the School of Cience and Technology of Carabobo University (Venezuela).',
-        'Ex sunt nulla excepteur duis Lorem ut esse proident id quis. Cupidatat duis quis commodo eiusmod sit exercitation officia. Nisi ut et incididunt nisi duis dolore culpa aute aliquip aliquip.',
-        'Lorem laboris anim esse id cillum nulla. Sunt amet velit consequat est do magna enim qui pariatur commodo velit consequat. Proident occaecat anim quis quis excepteur. Officia tempor voluptate exercitation dolor excepteur ipsum cupidatat.'
+        'Later on, he moved to China to study his Master\'s in Software Engineering in the University of Electronic Science and Technology of China (电子科技大学 in Mandarin Chinese), under the Chinese Scholarship Council and graduating with a GPA of 3.74.',
+        'After his graduation he worked with a joint collaboration between Microsoft China and the Sichuan province Government for creating a training center for professional capacitation based on Microsoft Certification. This experience would make him achieve being a Microsoft Certified Trainer.',
+        'Currently his main interests are: DevOps and Cloud Administration.'
     ]
 }
 
@@ -102,50 +103,76 @@ const artisticSkills = {
     galleryTitle: 'Photos',
     gallery: [
         {
+          src: "https://drive.google.com/uc?export=view&id=1QQV3al-iOXO706OaCN4S4Dpv1FxUH5sJ",
+          width: 3,
+          height: 5
+        },
+        {
+          src: "https://drive.google.com/uc?export=view&id=1Tj_d_fUtdjG0kPoEjSMENi5fOXr6Zc3q",
+          width: 3,
+          height: 5
+        },
+        {
+          src: "https://drive.google.com/uc?export=view&id=1rKw3GHm7g17_Y3IxFaeMKjGNP6dxkWMR",
+          width: 3,
+          height: 5
+        },
+        {
+          src: "https://drive.google.com/uc?export=view&id=1tSKWhdZgVSP1JQsFanZVzFnlM6aBrWU0",
+          width: 4,
+          height: 3
+        },
+        {
+          src: "https://drive.google.com/uc?export=view&id=1k3eFAWLNNTGXu703p1dDMj2F0oWwnTE4",
+          width: 4,
+          height: 3
+        },
+        {
           src: "https://scontent.fhkg3-1.fna.fbcdn.net/v/t1.18169-9/10541993_10152710284649894_7964100443084162009_n.jpg?_nc_cat=105&ccb=1-4&_nc_sid=174925&_nc_ohc=AZJH16qwnooAX8MHmtL&_nc_ht=scontent.fhkg3-1.fna&oh=1b48a836b252d701c78973695fe5c3b9&oe=61316A89",
           width: 4,
-          height: 3.5
+          height: 3
         },
         {
-          src: "https://source.unsplash.com/Dm-qxdynoEc/800x799",
-          width: 1,
-          height: 1
-        },
-        {
-          src: "https://source.unsplash.com/qDkso9nvCg0/600x799",
-          width: 3,
-          height: 4
-        },
-        {
-          src: "https://source.unsplash.com/iecJiKe_RNg/600x799",
-          width: 3,
-          height: 4
-        },
-        {
-          src: "https://source.unsplash.com/epcsn8Ed8kY/600x799",
-          width: 3,
-          height: 4
-        },
-        {
-          src: "https://source.unsplash.com/NQSWvyVRIJk/800x599",
+          src: "https://drive.google.com/uc?export=view&id=1mL_Jnj0s06pJN7Ml3Chp5uAFkykcXXdS",
           width: 4,
           height: 3
         },
         {
-          src: "https://source.unsplash.com/zh7GEuORbUw/600x799",
+          src: "https://drive.google.com/uc?export=view&id=1TFo39auoH9k37zyfWzesx9u93HcQPYr6",
+          width: 5,
+          height: 3
+        },
+        {
+          src: "https://drive.google.com/uc?export=view&id=1rNpJfFfbCDdZsyzES2ucSenXK11j_gOe",
+          width: 4,
+          height: 3
+        },
+        {
+          src: "https://drive.google.com/uc?export=view&id=15ahrjZ46vO2UhYEixLO1TSxXk0HdRArf",
+          width: 4,
+          height: 3
+        },
+        {
+          src: "https://drive.google.com/uc?export=view&id=1ROcynhiNTOctRKGrSzSaI-eVlzC0kUW7",
+          width: 4,
+          height: 3
+        },
+        {
+          src: "https://drive.google.com/uc?export=view&id=10Nuq4jwMd2-PkcXeKOPpIr_gX7gtW4GC",
+          width: 5,
+          height: 3
+        },
+        {
+          src: "https://drive.google.com/uc?export=view&id=1u9ZPKs6iJPwXqw8t94YfMw5-wgkIayTy",
+          width: 4,
+          height: 3
+        },
+        {
+          src: "https://drive.google.com/uc?export=view&id=1whLm_bg1jzpOMg-L_03f-xWElY4nr8uC",
           width: 3,
           height: 4
-        },
-        {
-          src: "https://source.unsplash.com/PpOHJezOalU/800x599",
-          width: 4,
-          height: 3
-        },
-        {
-          src: "https://source.unsplash.com/I1ASdgphUH4/800x599",
-          width: 4,
-          height: 3
         }
+
     ],      
     videosTitle: 'Videos',
     videos: [

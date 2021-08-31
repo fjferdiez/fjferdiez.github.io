@@ -15,10 +15,10 @@
 }
 
 .Welcome {
-    background-image: url('https://picsum.photos/id/1014/3000');
-    background-position: center;
+    background-image: url('https://drive.google.com/uc?export=view&id=1g3SWr4Q4jrdiQ7C88A1nls8sBlKR2-gx');
+    background-position: top;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
     background-attachment: fixed;
     z-index: 0;
 }
