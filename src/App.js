@@ -7,11 +7,13 @@ import data from './data/data'
 import EngineeringPortfolio from './components/EngineeringPortfolio'
 import Contact from './components/Contact'
 import { MediaContextProvider } from './components/Media'
+import { ParallaxProvider } from 'react-scroll-parallax'
 export default class App extends React.Component{
 
   render(){
 
     return(
+      <ParallaxProvider>
       <div className="App">
         <MediaContextProvider>
           <MainMenu>
@@ -23,6 +25,7 @@ export default class App extends React.Component{
           </MainMenu>
         </MediaContextProvider>
       </div>
+      </ParallaxProvider>
     )
   }
 }
