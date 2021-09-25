@@ -128,7 +128,7 @@ const artisticSkills = {
           height: 3
         },
         {
-          src: "https://scontent.fhkg3-1.fna.fbcdn.net/v/t1.18169-9/10541993_10152710284649894_7964100443084162009_n.jpg?_nc_cat=105&ccb=1-4&_nc_sid=174925&_nc_ohc=AZJH16qwnooAX8MHmtL&_nc_ht=scontent.fhkg3-1.fna&oh=1b48a836b252d701c78973695fe5c3b9&oe=61316A89",
+          src: "https://drive.google.com/uc?export=view&id=1tXsiyLCJcqD4D2TZKKF9ieabXg5-5Wbv",
           width: 4,
           height: 3
         },
