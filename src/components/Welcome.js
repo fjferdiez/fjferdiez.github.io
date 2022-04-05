@@ -1,15 +1,10 @@
-import React, {useEffect, useState} from 'react'
-import {Header, Grid, Transition} from 'semantic-ui-react'
+import React from 'react'
+import {Header, Grid} from 'semantic-ui-react'
 import { Parallax } from 'react-scroll-parallax'
 import {Media} from './Media'
 
 export default function Welcome(props) {
     const {title, name} = props.data
-    const [visibility, setVisibility] = useState(false)
-
-    useEffect(() => {
-        setVisibility(true)
-    }, [])
 
     console.log(Media)
 
